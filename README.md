@@ -1,4 +1,4 @@
-# Notepad
+Notepad
 mini-project
 Notepad is a word processing program, which allows changing of text in a computer file.
 It is a text editor, a very simple word processor.
