@@ -14,3 +14,5 @@ Please download all files . Click on  <a href='https://github.com/keya2000/Notep
 a file, create new file , Save current working file or Exit from notepad . Used <b> Edit </b> ribbon to 
 perform edit realated task ( Cut/copy/paste) & <b>Format</b> ribbon to give a attractive look of your page.</pre>
 
+## Contribution
+<pre>Pull requests are always welcome. Please make sure that You have not any error before requesting. </pre> 
